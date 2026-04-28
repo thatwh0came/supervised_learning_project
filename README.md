@@ -63,7 +63,7 @@ supervised\_learning\_project/
 
 ## Ссылка на репозиторий
 
-> \**https://github.com/thatwh0came/supervised\_learning\_project\**
+> **https://github.com/thatwh0came/supervised\_learning\_project\**
 >
 
 ## Технологии
